@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616478426722",
+    "project_id": "begproj",
+    "storage_bucket": "begproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616478426722:android:5e7d7076a235824eaab33b",
+        "android_client_info": {
+          "package_name": "com.drico.beg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616478426722-himkp01j5d2d122hhj8vfpk6d6dbp1io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDi0oQcC5qmUcht0AbTiPdkwbPo0ECz14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616478426722-himkp01j5d2d122hhj8vfpk6d6dbp1io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
